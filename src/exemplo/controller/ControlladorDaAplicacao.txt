@@ -1,0 +1,9 @@
+Serve como controlador de toda minha aplicacao
+
+Ele faz as partes se conectarem
+
+Esse pacote sera o mais burro
+
+Tem funcionalidades bem basicas, nao tem logica de negocio
+
+So orquestra como as coisas vao acontecer
